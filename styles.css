@@ -175,3 +175,5 @@ blockquote {
   .projects a { grid-template-columns: 1fr; gap: 8px; }
   .site-nav { gap: 20px; }
 }
+.impact li ul { list-style: disc; padding-left: 1.3em !important; margin-top: 8px; }
+.impact li li { padding: 2px 0; border: none; }
